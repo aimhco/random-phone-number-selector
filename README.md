@@ -6,7 +6,7 @@
 <img width="320" height="320" alt="phone_logo" src="https://github.com/user-attachments/assets/0c21de21-8a8d-4cdc-9843-2101d5dd62d0" />
 
 
-Small Tkinter utility that collects a list of phone numbers, lets you draft a single message, and then (after confirmation) sends the message to one randomly selected number. The app also adds the selected number to Contacts so Messages can deliver the iMessage/SMS.
+Small Tkinter utility that collects a list of phone numbers, lets you draft a single message, and then (after confirmation) sends the message to one randomly selected number. The app also adds the number chosen to Contacts so Messages can deliver the iMessage/SMS.
 
 ## Requirements
 
@@ -53,12 +53,12 @@ The application requires the following macOS permissions:
 ## Troubleshooting
 
 ### "Failed to add contact" error
-- Ensure Contacts app is accessible
+- Ensure the Contacts app is accessible
 - Check System Preferences > Security & Privacy > Privacy > Contacts
 - Grant Terminal (or your Python interpreter) access to Contacts
 
 ### "Failed to send SMS" error
-- Ensure Messages app is open and configured for SMS
+- Ensure the Messages app is open and configured for SMS
 - Check that your Mac is connected to your iPhone for SMS relay
 - Verify System Preferences > Security & Privacy > Privacy > Automation permissions
 
@@ -78,3 +78,6 @@ denny@aimh.co
 
 This template was adapted from
 [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template).
+
+Templates for open source and other licenses 
+[https://github.com/licenses/license-templates](https://github.com/licenses/license-templates) 
