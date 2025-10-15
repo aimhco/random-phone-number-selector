@@ -1,10 +1,11 @@
 # Random Phone Number Selector (Mystery Messenger)
 
-[![License](https://img.shields.io/badge/license-MIT-blue)]([https://opensource.org/licenses/Apache-2.0](https://opensource.org/license/mit))
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)]()
+[![License](https://img.shields.io/badge/license-MIT-blue)]([https://opensource.org/licenses/Apache-2.0](https://opensource.org/license/mit))
 
-<img width="320" height="320" alt="phone_logo" src="https://github.com/user-attachments/assets/0c21de21-8a8d-4cdc-9843-2101d5dd62d0" />
-
+<img width="320" height="320" alt="phone_logo" src="assets/phone_logo.png" />
 
 Small Tkinter utility that collects a list of phone numbers, lets you draft a single message, and then (after confirmation) sends the message to one randomly selected number. The app also adds the number chosen to Contacts so Messages can deliver the iMessage/SMS.
 
@@ -72,12 +73,16 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-denny@aimh.co
+Denny - denny@aimh.co
+
+Project Link: https://github.com/aimhco/random-phone-number-selector/
 
 ## Acknowledgements
 
-This template was adapted from
+This template was adapted from:
 [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template).
 
-Templates for open source and other licenses 
+An extensive list of Shields.io badges: [https://github.com/inttter/md-badges](https://github.com/inttter/md-badges) 
+
+Templates for open source and other licenses: 
 [https://github.com/licenses/license-templates](https://github.com/licenses/license-templates) 
