@@ -2,10 +2,10 @@
 
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]([https://opensource.org/licenses/Apache-2.0](https://opensource.org/license/mit))
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](#)
+[![License](https://img.shields.io/badge/license-MIT-blue)](#)
 
-<img width="320" height="320" alt="phone_logo" src="assets/phone_logo.png" />
+<p align="center"><img width="350" height="350" alt="phone_logo" src="assets/phone_logo.png" /></p>
 
 Small Tkinter utility that collects a list of phone numbers, lets you draft a single message, and then (after confirmation) sends the message to one randomly selected number. The app also adds the number chosen to Contacts so Messages can deliver the iMessage/SMS.
 
@@ -26,10 +26,19 @@ Small Tkinter utility that collects a list of phone numbers, lets you draft a si
 python3 phone_numbers.py
 ```
 
-1. Enter phone numbers one at a time and click **Add Another Phone Number** (or press Enter) to build the list.
-2. Press **OK** to move to the message window once you have at least one number.
-3. Draft your message and press **OK**. You will be prompted to confirm.
+1. Enter phone numbers one at a time and click **Add Another Phone Number** (or press Enter) to build the list. Press **OK** to move to the message window once you have at least one number.
+<p align="center"><img width="400" alt="step1" src="assets/step1.png" /></p>
+
+2. Draft your message and press **OK**.
+<p align="center"><img width="400" alt="step2" src="assets/step2.png" /></p>
+
+3. You will be prompted to confirm.
+<p align="center"><img width="250" alt="step3" src="assets/step3.png" /></p>
+
 4. When confirmed, the app randomly picks one saved number, adds a "Test" contact to Contacts, and sends the SMS through Messages.
+<p align="center"><img width="250" alt="step4" src="assets/step4.png" />
+<img width="400" alt="step5" src="assets/step5.png" /></p>
+
 
 ### macOS Permissions
 
