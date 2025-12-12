@@ -1,1 +1,17 @@
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# uv
+.uv_cache/
+uv.lock
